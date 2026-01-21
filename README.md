@@ -1,10 +1,10 @@
 - 👋 Hi, I’m @Cheezecats
 - 👀 I’m interested in ... gaming fps
 - 🌱 I’m currently learning ... acg guitar
-- 💞️ I’m looking to collaborate on ... 
+- 💞️ I’m looking to collaborate on ... 👍
 - 📫 How to reach me ... idk
 - 😄 Pronouns: ... bro
-- ⚡ Fun fact: ... 
+- ⚡ Fun fact: ... 🐧
 
 <!---
 Cheezecats/Cheezecats is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
